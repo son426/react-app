@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-app/static/js/main.c9fb4c0a.js",
-    "index.html": "/react-app/index.html",
-    "main.c9fb4c0a.js.map": "/react-app/static/js/main.c9fb4c0a.js.map"
+    "main.js": "/react-app.gitr/static/js/main.c9fb4c0a.js",
+    "index.html": "/react-app.gitr/index.html",
+    "main.c9fb4c0a.js.map": "/react-app.gitr/static/js/main.c9fb4c0a.js.map"
   },
   "entrypoints": [
     "static/js/main.c9fb4c0a.js"
